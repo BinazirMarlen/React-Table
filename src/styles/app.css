@@ -13,11 +13,29 @@
     width: 880px;
 }
 
-.post{
+/* .user{
     display: flex;
     padding: 15px;
-    border: 2px solid teal;
+    border: 2px solid black;
     margin-top: 15px;
     justify-content: space-between;
     align-items: center;
+} */
+table{
+    border-collapse: collapse;
+}
+
+th{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 15px 40px;
+}
+td{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 15px 40px;
+}
+
+h1{
+    margin: 10px;
 }
